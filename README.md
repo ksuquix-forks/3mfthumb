@@ -167,4 +167,4 @@ Discuss issues on the [GitHub issue tracker](https://github.com/themanyone/3mfth
 
 Copyright (C) 2024-2025 Henry Kroll III, www.thenerdshow.com. See [LICENSE](LICENSE) for details.
 
-Additions by Don Eisele, 2026, https://quixcraft.com/
+Additions adding full Windows support by Don Eisele, 2026, https://toysmakeuspowerful.com/
